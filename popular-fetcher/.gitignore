@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Google API for YouTube
+client_secret.json
+
+# Token storage
+storage.dat

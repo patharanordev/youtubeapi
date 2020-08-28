@@ -1,0 +1,1 @@
+docker build -f "Dockerfile" -t youtubeapi:0.0.1-popular-fetcher .
